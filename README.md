@@ -5,7 +5,7 @@
 3. Trợ giảng hỗ trợ: anh Trần Lê Tấn Thịnh
 4. Nhóm: 3
 
-##Danh sách thành viên
+## Danh sách thành viên
 1. Trần Dương Ánh Ngọc - K204060289
 2. Trần Thị Thu Thảo - K204060295 
 3. Đặng Quang Huy - K204061397
@@ -20,7 +20,7 @@
 5. 1 file Source code: 222IS2901_DAwR_P_FinalProject_Group3.ipynb
 6. 1 file README.md 
 
-##Tổng quan nội dung:
+## Tổng quan nội dung:
 Trước hết chúng em sẽ đi tìm hiểu lý thuyết về các nội dung liên quan đến vấn đề này như
 - Lý thuyết rủi ro tín dụng 
 - Học máy
